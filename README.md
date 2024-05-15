@@ -19,7 +19,7 @@ Copper CAM
 13. Save the G code</br>
 # Contours Output
 
-
+![alt text](image.png)
 
 
 
@@ -27,21 +27,21 @@ Copper CAM
 # G Code
 ### Engraving G Code
 
-
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 
 ### Drill G Code
 
-
-
-
-
-
+#### Drill_0.8 G-Code
+![alt text](image-3.png)
+#### Drill_1 G-Code
+![alt text](image-4.png)
+![alt text](image-5.png)
 ### Cutting G Code
 
-
+![alt text](image-6.png)
 
 
 
